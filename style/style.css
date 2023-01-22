@@ -345,7 +345,7 @@ html {
     height: 100vh;
     min-width: 320px;
     font-family: "Roboto Condensed", sans-serif;
-    /* background: white; */
+    overflow: hidden;
   }
   
   .container {
