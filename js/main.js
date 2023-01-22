@@ -56,6 +56,7 @@ let handRotate = function(gift, second) {
 
 let clickHandler = function() {
 	$('.hand').off('click')
+	$('.hand img').attr('style','opacity:1')
 	if (giftBox.length == 0) {
 		init()
 		$('.hand').on('click', clickHandler)

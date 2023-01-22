@@ -345,7 +345,7 @@ html {
     height: 100vh;
     min-width: 320px;
     font-family: "Roboto Condensed", sans-serif;
-    background: white;
+    /* background: white; */
   }
   
   .container {
@@ -567,7 +567,8 @@ html {
     position: absolute;
     top: -44px;
     left: -5px;
-    width: 75px;;
+    width: 75px;
+    opacity: 0;
     -webkit-transform: rotate(190deg);
             transform: rotate(190deg);
   }
