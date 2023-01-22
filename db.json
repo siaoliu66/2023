@@ -1,0 +1,22 @@
+[
+  {"title": "床包",
+    "text": "2",
+    "icon": "<i class='material-icons'>favorite</i>",
+    "num": 1
+  },
+  {"title": "鞋櫃",
+    "text": "3",
+    "icon": "<i class='material-icons'>star_rate</i>",
+    "num": 1
+  },
+  {"title": "AW SE 40mm",
+    "text": "5",
+    "icon": "<i class='material-icons'>catching_pokemon</i>",
+    "num": 1
+  },
+  {"title": "任何時候都能使用的許願卡",
+    "text": "6",
+    "icon": "<i class='material-icons'>local_activity</i>",
+    "num": 1
+  }
+]
