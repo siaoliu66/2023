@@ -71,7 +71,7 @@ let init = function() {
 	starAngle = 0
 	giftBox = []
 	winBar.hide()
-	wheel.html('<div class="hand"><p>PRESS</p><img src="./images/hand.svg" /></div>')
+	wheel.html('<div class="hand" style="top:0px"><p>PRESS</p><img src="./images/hand.svg" /></div>')
 	contentCon.html('')
 	$('.hand').css({
 		transition: 'unset',

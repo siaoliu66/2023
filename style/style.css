@@ -332,7 +332,7 @@ html {
   
   .winBar, .wheelBody .hand {
     position: absolute;
-    top: 0;
+    top: 40px;
     right: 0;
     bottom: 0;
     left: 0;
@@ -349,13 +349,13 @@ html {
   }
   
   .container {
-    max-width: 300px;
+    max-width: 230px;
     margin: 0 auto;
   }
   
   h1 {
     color: white;
-    font-size: 72px;
+    font-size: 60px;
     font-weight: 800;
     line-height: 110px;
     line-height: 1;
@@ -363,7 +363,7 @@ html {
   
   h2 {
     color: #ff00ba;
-    font-size: 36px;
+    font-size: 32px;
     font-weight: 800;
     line-height: 110px;
     line-height: 1;
@@ -377,7 +377,7 @@ html {
   }
   
   h3 i.material-icons {
-    font-size: 4rem;
+    font-size: 2.5rem;
   }
   
   p {
@@ -422,7 +422,7 @@ html {
   
   .container {
     position: absolute;
-    top: 60%;
+    top: 73%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
             transform: translate(-50%, -50%);
@@ -468,7 +468,7 @@ html {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 250px;
             flex: 0 0 250px;
-    padding-left: 70px;
+    padding-left: 50px;
   }
   
   .winBar .space {
@@ -482,8 +482,8 @@ html {
     position: relative;
     z-index: 40;
     -webkit-box-flex: 0;
-        -ms-flex: 0 0 250px;
-            flex: 0 0 250px;
+        -ms-flex: 0 0 200px;
+            flex: 0 0 200px;
   }
   
   .winBar .giftName p {
@@ -545,8 +545,8 @@ html {
             transition-timing-function: cubic-bezier(0, 0.84, 0.61, 0.95);
     -webkit-transform-origin: center;
             transform-origin: center;
-    width: 75px;
-    height: 75px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -565,9 +565,9 @@ html {
   
   .wheelBody .hand img {
     position: absolute;
-    top: -50px;
-    left: -4px;
-    width: 90px;;
+    top: -44px;
+    left: -5px;
+    width: 75px;;
     -webkit-transform: rotate(190deg);
             transform: rotate(190deg);
   }
