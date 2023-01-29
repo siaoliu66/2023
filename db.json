@@ -13,10 +13,5 @@
     "text": "5",
     "icon": "<i class='material-icons'>catching_pokemon</i>",
     "num": 1
-  },
-  {"title": "任何時候都能使用的許願卡",
-    "text": "6",
-    "icon": "<i class='material-icons'>local_activity</i>",
-    "num": 1
   }
 ]
